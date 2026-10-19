@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004443529159",
+    "project_id": "boardgame-c26a2",
+    "storage_bucket": "boardgame-c26a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004443529159:android:81122bfb20eebde41073e2",
+        "android_client_info": {
+          "package_name": "edu.uph.m24si1.boardgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluTmRNYKzvvi7umRZDItG61bmqXxlUg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
